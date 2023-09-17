@@ -123,35 +123,5 @@
             "duration": "30 min",
             "booking_for": "Self"
         }
-    },
-    "doctors": [
-        {
-            "doctor_name": "Dr. John Doe",
-            "image": "https://placeimg.com/100/100/people/1",
-            "location": "123 Health St, MedCity",
-            "speciality": "Cardiologist",
-            "available": "Yes"
-        },
-        {
-            "doctor_name": "Dr. Jane Smith",
-            "image": "https://placeimg.com/100/100/people/2",
-            "location": "456 Wellness Ave, MedCity",
-            "speciality": "Dermatologist",
-            "available": "No"
-        },
-        {
-            "doctor_name": "Dr. Emily Brown",
-            "image": "https://placeimg.com/100/100/people/3",
-            "location": "789 Clinic Blvd, MedCity",
-            "speciality": "Pediatrician",
-            "available": "Yes"
-        },
-        {
-            "doctor_name": "Dr. Robert White",
-            "image": "https://placeimg.com/100/100/people/4",
-            "location": "101 Health Drive, MedCity",
-            "speciality": "Orthopedic Surgeon",
-            "available": "No"
-        }
-    ]
+    }
 }
